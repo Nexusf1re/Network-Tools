@@ -26,7 +26,7 @@ print("github   : https://github.com/Ha3MrX")
 print("Facebook : https://www.facebook.com/muhamad.jabar222")
 print()
 ip = input("IP Target : ")
-port = eval("Port       : ")
+port = raw_input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
