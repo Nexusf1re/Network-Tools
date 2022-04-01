@@ -1,2 +1,2 @@
-# Network_Tools
+# Network-Tools
 Some network test tools for educational purposes
